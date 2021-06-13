@@ -23,5 +23,6 @@ I will therefore select only the most useful features to predict the closing pri
 
 The feature selection methodologies used are:
       - Boruta
+      - Pearson Correlation
       - Regression Feature Selection
       - Mutual Information Feature Selection
