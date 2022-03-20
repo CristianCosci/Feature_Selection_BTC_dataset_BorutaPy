@@ -22,7 +22,7 @@ FEATURES :  ['open', 'high', 'low', 'close', 'volume', 'new_addresses', 'active_
 I will therefore select only the most useful features to predict the closing price of BITCOIN in USD.
 
 The feature selection methodologies used are:
-      - Boruta
-      - Pearson Correlation
-      - Regression Feature Selection
-      - Mutual Information Feature Selection
+- Boruta
+- Pearson Correlation
+- Regression Feature Selection
+- Mutual Information Feature Selection
