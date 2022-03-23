@@ -26,3 +26,5 @@ The feature selection methodologies used are:
 - Pearson Correlation
 - Regression Feature Selection
 - Mutual Information Feature Selection
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCristianCosci%2FBorutaPy_Feature_Selection_BTC_dataset&count_bg=%23880ED0&title_bg=%23555555&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=visite&edge_flat=false)](https://hits.seeyoufarm.com)
